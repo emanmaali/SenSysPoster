@@ -1,4 +1,4 @@
-**Towards identifying IoT traffic anomalies on the Home Gateway**
+**Poster: Towards identifying IoT traffic anomalies on the Home Gateway**
 Eman Maali, David Boyle, Hamed Haddadi (Imperial College London)
 
 **Abstract**
